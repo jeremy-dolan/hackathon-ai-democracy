@@ -1,9 +1,9 @@
 ## Artificial Advocates: Biasing Democratic Feedback using AI
 
-Written for Apart Research's [AI x Democracy hackathon](https://www.apartresearch.com/event/ai-democracy). 
+Written for Apart Research's ["AI x Democracy" hackathon](https://www.apartresearch.com/event/ai-democracy).
 
-Our project submission: https://www.apartresearch.com/project/artificial-advocates-biasing-democratic-feedback-using-ai
+Our team's project targeted the vulnerability of U.S. federal agencies' public comment systems to AI-driven manipulation, aiming to highlight how AI can be used to undermine democratic processes. We demonstrated two attack methods: 1) generating a high volume of comments that survey participants found functionally-indistinguishable from human comments (this repo), and 2) producing high-quality forgeries mimicking influential organizations ([repo](https://github.com/simonwisdom/public-comment-generator/), [demo](https://github.com/simonwisdom/public-comment-generator/raw/master/media/side-by-side-demo-small.mp4)). These experiments showcase the challenges in distinguishing authentic from synthetic public participation online where identity verification systems are not implemented.
 
-The "Artificial Advocates" project by our team targeted the vulnerability of U.S. federal agencies' public comment systems to AI-driven manipulation, aiming to highlight how AI can be used to undermine democratic processes. We demonstrated two attack methods: one generating a high volume of realistic, indistinguishable comments, and another producing high-quality forgeries mimicking influential organizations. These experiments showcased the challenges in detecting AI-generated content, with participant feedback showing significant uncertainty in distinguishing between authentic and synthetic comments.
+🏆 Our project took 3rd place out of 25 teams: https://www.apartresearch.com/project/artificial-advocates-biasing-democratic-feedback-using-ai
 
-See also the other leg of our project: https://github.com/simonwisdom/public-comment-generator/
+⚡️ Lightning talk: https://www.youtube.com/watch?v=wxE4yyXmlzw&t=106s
